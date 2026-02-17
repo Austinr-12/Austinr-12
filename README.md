@@ -5,7 +5,7 @@
     Austin, TX • Class of 2027 • University of Texas at Austin
   </p>
   <p>
-    <a href="www.linkedin.com/in/austin-ramirez-43745b327">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/austin-ramirez-43745b327/">LinkedIn</a> •
     <a href="mailto:aar5724@eid.utexas.edu">Email</a> •
     <a href="https://github.com/Austinr-12">GitHub</a>
   </p>
